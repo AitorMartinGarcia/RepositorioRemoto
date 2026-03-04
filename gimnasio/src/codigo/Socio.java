@@ -33,9 +33,9 @@ public class Socio extends Persona {
 	}
 
 	@Override
-	public String listarDatos() {
+	public void listarDatos() {
 		// TODO Auto-generated method stub
-		return null;
+		
 	}
 
 }

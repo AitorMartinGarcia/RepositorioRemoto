@@ -62,6 +62,7 @@ public abstract class Persona {
 	}
 	
 	//Método de la clase
-	public abstract String listarDatos();
+	public abstract void listarDatos();
+	
 	
 }
