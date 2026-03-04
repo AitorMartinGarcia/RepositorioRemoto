@@ -1,13 +1,13 @@
 package codigo;
 
-public class App {
+public class nuevaApp {
 
 	public class Main {
 
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
 			System.out.println("Este archivo lanzará la aplicación");
-			System.out.println();
+			System.out.println("Aitor");
 		}
 
 	}
